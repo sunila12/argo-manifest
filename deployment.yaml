@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: sunila12/html-server-image:v2
+        image: sunila12/html-server-image:8
         resources:
           limits:
             memory: "128Mi"
